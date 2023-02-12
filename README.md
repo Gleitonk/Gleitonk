@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Gleitonk.
-- 👀 I’m interested in React Native and NodeJS.
-- 🌱 I’m currently learning React Native, NodeJS and ReactJS.
+- 👀 I’m interested in React Native, NodeJS and Java.
+- 🌱 I’m currently learning Typescript and Java.
 - 📫 How to reach me https://br.linkedin.com/in/gleiton-brand%C3%A3o-9478b2172
